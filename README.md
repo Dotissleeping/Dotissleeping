@@ -1,5 +1,5 @@
 ### 💫 About Me:
-### Hi, I'm Aldrich 👋<br><br>An IT student passionate about web development and creating clean, user-friendly projects.  <br>I enjoy frontend design, graphic designing, and building systems while continuously improving my coding skills. <br><br>I’m looking for help with improving backend development skills  <br> I’m currently learning PHP databases and basic Python scripting  <br>Ask me about HTML, CSS, frontend design, and basic web development  <br>Fun fact: I enjoy making websites look clean and visually appealing
+##### Hi, I'm Aldrich 👋<br><br>An IT student passionate about web development and creating clean, user-friendly projects.  <br>I enjoy frontend design, graphic designing, and building systems while continuously improving my coding skills. <br><br>I’m looking for help with improving backend development skills  <br> I’m currently learning PHP databases and basic Python scripting  <br>Ask me about HTML, CSS, frontend design, and basic web development  <br>Fun fact: I enjoy making websites look clean and visually appealing
 
 
 ## 🌐 Socials:
