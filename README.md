@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Aldrich 👋<br><br>An IT student passionate about web development and creating clean, user-friendly projects.  <br>I enjoy frontend design, graphic designing, and building systems while continuously improving my coding skills. <br><br>I’m looking for help with improving backend development skills  <br> I’m currently learning PHP databases and basic Python scripting  <br>Ask me about HTML, CSS, frontend design, and basic web development  <br>Fun fact: I enjoy making websites look clean and visually appealing
+### 💫 About Me:
+### Hi, I'm Aldrich 👋<br><br>An IT student passionate about web development and creating clean, user-friendly projects.  <br>I enjoy frontend design, graphic designing, and building systems while continuously improving my coding skills. <br><br>I’m looking for help with improving backend development skills  <br> I’m currently learning PHP databases and basic Python scripting  <br>Ask me about HTML, CSS, frontend design, and basic web development  <br>Fun fact: I enjoy making websites look clean and visually appealing
 
 
 ## 🌐 Socials:
@@ -12,10 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=Dotissleeping&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dotissleeping&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dotissleeping&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-  ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/KaitoDot) 
 
   
