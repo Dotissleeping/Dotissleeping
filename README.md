@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:58a6ff&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-```
+<div align="center">
+
+```txt
 ██████╗  ██████╗ ████████╗██╗███████╗███████╗ ███████╗██╗     ███████╗███████╗██████╗ ██╗███╗   ██╗ ██████╗
 ██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝██╔════╝ ██╔════╝██║     ██╔════╝██╔════╝██╔══██╗██║████╗  ██║██╔════╝
 ██║  ██║██║   ██║   ██║   ██║███████╗███████╗ ███████╗██║     █████╗  █████╗  ██████╔╝██║██╔██╗ ██║██║  ███╗
@@ -10,6 +12,8 @@
 ██████╔╝╚██████╔╝   ██║   ██║███████║███████║ ███████║███████╗███████╗███████╗██║     ██║██║ ╚████║╚██████╔╝
 ╚═════╝  ╚═════╝    ╚═╝   ╚═╝╚══════╝╚══════╝ ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%8C%90;UI+%26+Graphic+Designer+%F0%9F%8E%A8;IT+Student+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Always+building%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
